@@ -1,10 +1,3 @@
-# prog_estat
+# Programação Estatítica 2026
 
-
-qualquer coisa, teste 1213165413165
-
-
-testeteste
-
-
-testeando de novo 
+repositório feito em aula dia 28 de setembro.
